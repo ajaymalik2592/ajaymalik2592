@@ -25,22 +25,23 @@ I am a Lead Product Engineer at **LOYALTY JUGGERNAUTS INC**, based in Hyderabad,
 - Developed custom **API solutions** to simplify workflow management and enhance system integration.
 
 ---
+### Achievements
 
-# 🏆 **Personal Achievements**  
-### **ACM-ICPC 2019-20 Kanpur Regionals**  
-[23\textsuperscript{rd} place](https://www.codechef.com/public/rankings/ICPCKA19) - Most Prestigious Collegiate Programming Contest with 100+ teams from top Indian Institutes.
+- [**ACM-ICPC 2019-20 Kanpur Regionals**](https://www.codechef.com/public/rankings/ICPCKA19)  
+  **23<sup>rd</sup> place** – Most Prestigious Collegiate Programming Contest with 100+ teams from top Indian Institutes.
 
-### **ACM-ICPC 2019-20 Online Qualifier Round**  
-[38\textsuperscript{th} / 4000+](https://www.codechef.com/rankings/ICPCIN19?order=asc&page=2&sortBy=rank) - Rank in a highly competitive round of the ACM-ICPC online qualifiers.
+- [**ACM-ICPC 2019-20 Online Qualifier Round**](https://www.codechef.com/rankings/ICPCIN19?order=asc&page=2&sortBy=rank)  
+  **38<sup>th</sup> / 4000+** – Ranked in a highly competitive round of the ACM-ICPC online qualifiers.
 
-### **IUPC PLINTH - LNMIIT Jaipur Onsite Round 2020**  
-[1\textsuperscript{st} place](https://www.codechef.com/rankings/IUPC2020) - Won first place at the IUPC onsite round.
+- [**IUPC PLINTH - LNMIIT Jaipur Onsite Round 2020**](https://www.codechef.com/rankings/IUPC2020)  
+  **1<sup>st</sup> place** – Won first place at the IUPC onsite round.
 
-### **Codathon - Inter NIT Coding Contest 2020**  
-[6\textsuperscript{th} / 6500+](https://www.hackerearth.com/challenges/college/codathon20-nitbhopal/leaderboard/) - Ranked among the top 10 in an inter-NIT coding contest.
+- [**Codathon - Inter NIT Coding Contest 2020**](https://www.hackerearth.com/challenges/college/codathon20-nitbhopal/leaderboard/)  
+  **6<sup>th</sup> / 6500+** – Ranked among the top 10 in an inter-NIT coding contest.
 
-### **ENIGMA - LNMIIT Jaipur Onsite Round 2020**  
-[5\textsuperscript{th} place](https://www.codechef.com/rankings/EGMA2020) - Placed 5th in a competitive onsite round at LNMIIT Jaipur.
+- [**ENIGMA - LNMIIT Jaipur Onsite Round 2020**](https://www.codechef.com/rankings/EGMA2020)  
+  **5<sup>th</sup> place** – Placed 5th in a competitive onsite round at LNMIIT Jaipur.
+
 
 ---
 
