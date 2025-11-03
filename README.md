@@ -1,30 +1,67 @@
 # Hi there, I'm Ajay Malik 👋
 
-## 🚀 About Me
-I am a Lead Product Engineer at **LOYALTY JUGGERNAUTS INC**, based in Hyderabad, India, with a focus on creating scalable, efficient, and data-driven solutions. My expertise lies in **Product Engineering**, **Data Integration**, and **Microservices Architecture**.
 
-# 🚀 **Experience Summary**
+## **Summary**
 
-### **Lead Product Engineer**  
-*Jan 2024 ‐ Present*  
-- Designed and implemented **scalable data solutions** for segmentation and real-time data retrieval.
-- Developed **user-friendly frameworks** for dynamic data modeling and efficient handling of large-scale datasets.
-- Integrated **microservices** for enhanced data compliance and regional data management.
-- Migrated customer data and **optimized cross-region interactions** for real-time updates.
-
-### **Senior Product Engineer**  
-*July 2021 – Dec 2023*  
-- Built and managed **scalable data workflows**, ensuring efficient data export/import with execution tracking.
-- Migrated to cloud services such as **DynamoDB, Couchbase**, and **Lambda functions**, improving performance and reducing costs.
-- Designed a **cross-team query framework** for optimized data processing, resulting in a **95% drop in CPU utilization**.
-
-### **Product Engineer**  
-*April 2020 – June 2021*  
-- Streamlined **data pipeline architecture**, reducing operational costs by 80%.
-- Managed **complex data workflows**, optimizing scheduling, and migrating legacy systems to AWS services.
-- Developed custom **API solutions** to simplify workflow management and enhance system integration.
+Backend Engineer with **5+ years** of experience designing and scaling **distributed systems** and **high-throughput APIs** using **Python (Django, Flask)** and **AWS**.  
+Expert in **fault-tolerant architectures**, **performance optimization**, and **large-scale migrations** — delivered **45% faster CI/CD pipelines** and **75% compute cost reduction**.
 
 ---
+
+## **Experience**
+
+### **Loyalty Juggernaut Inc**, Hyderabad, India  
+**Lead Product Engineer** | *Jan 2024 – Present*  
+- Led a backend team of **9 engineers** across multiple time zones, building distributed microservices powering a SaaS loyalty platform for **20+ enterprise clients**.  
+- Led multiple **client migration and onboarding projects**, delivering technical solutions and ensuring well-informed design decisions.  
+- Built a scalable **RFM Segmentation Service** using Django, Celery, and Redshift to support real-time targeting of **250M+ users** and **15B+ transactions**, with a rule engine that converts drag-and-drop logic into distributed Redshift queries.  
+- Built a **flexible voucher cancellation service** enabling external systems to trigger **bulk rollbacks** using benefit references.  
+- Designed a **multi-account, cross-region AWS setup** to comply with China’s data localization policies while maintaining unified operations.
+
+---
+
+**Senior Product Engineer** | *Jul 2021 – Dec 2023*  
+- Integrated systems across **Couchbase, GCP, and Azure**, developing **hybrid-cloud PoCs** to streamline data flow and accelerate client onboarding.  
+- Built **Flask-based microservices** for import/export automation with audit tracking, workflow monitoring, and encryption. Supported multiple data formats, **6+ external integrations**, and **UI-based scheduling** linked with the bulk processing framework.  
+- Designed **zero-downtime migration workflows** for ETL and Django services, automating migration tracking and failure alerts via Slack and email.  
+- Added **Couchbase support** via a config-driven DB layer, refactoring the codebase for NoSQL operations and future database integrations.  
+- Migrated **10+ Lambda functions, 40+ jobs, and 30+ APIs** to a Couchbase-backed setup, improving consistency and maintainability.  
+- Built an **in-house ETL pipeline** in Python and AWS after evaluating multiple tools, replacing Matillion and **reducing costs by 80%**. Migrated **10+ production pipelines** with full dependency management.
+
+---
+
+**Product Engineer** | *Apr 2020 – Jun 2021*  
+- Conducted PoCs on **Airflow, Spark, Hudi, and DMS**, migrating complex workflows and creating reusable utilities for faster team development.  
+- Built a **unified test framework** for Airflow and Spark jobs in a **containerized setup**, ensuring consistent and reliable validation.  
+- Implemented **Celery jobs integrated with SQS** to handle asynchronous operations, improving system responsiveness.  
+- Migrated **30+ AWS Glue jobs** to a **Lambda-based batch framework**, enhancing reliability and alignment with scheduled runs.
+
+---
+## 🧠 **Skills**
+
+### ☁️ Cloud Platforms  
+- **AWS:** Lambda, ECS, S3, RDS, CloudWatch, EMR  
+- **GCP:** BigQuery  
+- **Azure:** Blob Storage  
+
+### 🧩 Data Engineering  
+- Airflow, Hadoop, Hudi, Snowflake, Matillion  
+- Spark, Presto (Athena), Hive  
+
+### 💻 Programming Languages  
+- Python, SQL, Java, C++, JavaScript  
+
+### 🧱 Frameworks  
+- Django, Flask, Celery  
+
+### 🗄️ Databases  
+- PostgreSQL, DynamoDB, Couchbase, MongoDB, Redshift  
+
+### ⚙️ DevOps & Tools  
+- Docker, CircleCI, Sonar, Snyk, DataDog, CI/CD Pipelines  
+
+---
+
 ### Achievements
 
 - [**ACM-ICPC 2019-20 Kanpur Regionals**](https://www.codechef.com/public/rankings/ICPCKA19)  
